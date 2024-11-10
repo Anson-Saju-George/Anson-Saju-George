@@ -13,7 +13,6 @@ I'm a **CSE AIML (Computer Science Engineering in Artificial Intelligence and Ma
 - AI and **machine learning** model development
 - **MLOps** and **deployment** workflows
 - **Web development** with HTML, CSS, and JavaScript
-- **Database management** and **optimization** with MongoDB
 - **Problem-solving** through coding challenges and hackathons
 
 ## 📫 How to Reach Me
