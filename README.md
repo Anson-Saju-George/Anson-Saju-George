@@ -10,9 +10,9 @@ I'm a **CSE AIML (Computer Science Engineering in Artificial Intelligence and Ma
 - 🧑‍🏫 As a **leader**, I enjoy collaborating with others and helping guide projects and teams to success.
 
 ## 💻 What I Do
-- AI and **machine learning** model development
+- AI and **Machine learning** model development
 - **MLOps** and **deployment** workflows
-- **Web development** with HTML, CSS, and JavaScript
+- **Web development** with HTML, CSS, JavaScript and NodeJS
 - **Problem-solving** through coding challenges and hackathons
 
 ## 📫 How to Reach Me
