@@ -22,7 +22,7 @@ I'm a **CSE AIML (Computer Science Engineering in Artificial Intelligence and Ma
 - **Programming**: Python, JavaScript, HTML, CSS, Shell Scripting
 - **AI & ML Frameworks**: PyTorch, TensorFlow, Keras, OpenCV
 - **DevOps & MLOps**: MLflow, Docker, Virtual Environments
-- **Tools & Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib
+- **Tools & Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Tensorflow, Pytorch, openCV
 - **System Knowledge**: Experience with NVIDIA GPUs, CUDA, cuDNN, Intel MKL-DNN, WSL for machine learning tasks
 
 ## ✨ Qualities
