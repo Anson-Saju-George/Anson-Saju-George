@@ -17,7 +17,7 @@ I'm a **CSE AIML (Computer Science Engineering in Artificial Intelligence and Ma
 - **Problem-solving** through coding challenges and hackathons
 
 ## 📫 How to Reach Me
-- 📧 Email: [Your Email]
+- 📧 Email: ansonsaju@karunya.edu.in
 - 🌐 GitHub: [Anson-Saju-George](https://github.com/Anson-Saju-George)
 
 Feel free to check out my repositories for more on the projects I’m working on and feel free to contribute!
