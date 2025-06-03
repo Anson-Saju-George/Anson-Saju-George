@@ -1,6 +1,6 @@
 # Hi there, I'm Anson! 👋
 
-I'm a **CSE AIML (Computer Science Engineering in Artificial Intelligence and Machine Learning)** bachelor student with a deep enthusiasm for **AI** and **Machine Learning**. As an **AI aspirant** and **problem solver**, I am passionate about using technology to address real-world challenges and continuously push boundaries in AI innovation. 
+I'm a **CSE (Artificial Intelligence and Machine Learning)** bachelor student with a deep enthusiasm for **AI** and **Machine Learning**. As an **AI aspirant** and **problem solver**, I am passionate about using technology to address real-world challenges and continuously push boundaries in AI innovation. 
 
 ## 🚀 About Me
 - 🎓 Pursuing my degree in CSE AIML, gaining expertise in **deep learning**, **data science**, and **computer vision**.
