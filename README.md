@@ -1,6 +1,14 @@
 # Hey there, I'm Anson! 👋
 
 I'm a **CSE (Artificial Intelligence and Machine Learning)** bachelor student with a deep enthusiasm for **AI** and **Machine Learning**. As an **AI aspirant** and **problem solver**, I am passionate about using technology to address real-world challenges and continuously push boundaries in AI innovation. 
+💻 I’m a final-year B.Tech student in **Computer Science and Engineering (Artificial Intelligence and Machine Learning)**, driven by a strong passion for **AI** and its real-world applications. With a deep enthusiasm for innovation and problem-solving, I strive to develop intelligent solutions that push the boundaries of what's possible in the AI landscape
+
+## 🛠️ Tech Skills
+- **Programming**: Python, JavaScript, HTML, CSS, Shell Scripting
+- **AI & ML Frameworks**: PyTorch, TensorFlow, Keras, OpenCV
+- **DevOps & MLOps**: MLflow, Docker, Virtual Environments
+- **Tools & Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Tensorflow, Pytorch, openCV
+- **System Knowledge**: Experience with NVIDIA GPUs, CUDA, cuDNN, Intel MKL-DNN, WSL for machine learning tasks
 
 ## 🚀 About Me
 - 🎓 Pursuing my degree in CSE AIML, gaining expertise in **deep learning**, **data science**, and **computer vision**.
@@ -18,12 +26,7 @@ I'm a **CSE (Artificial Intelligence and Machine Learning)** bachelor student wi
 - **Cross-Platform Development**: Proficient in setting up and maintaining environments on **Linux** (Fedora and Ubuntu) and **Windows** for GPU programming, CUDA support, and ML workflows.
 - **Community Engagement**: Active in AI and tech communities, sharing knowledge and learning from others to grow collectively.
 
-## 🛠️ Tech Skills
-- **Programming**: Python, JavaScript, HTML, CSS, Shell Scripting
-- **AI & ML Frameworks**: PyTorch, TensorFlow, Keras, OpenCV
-- **DevOps & MLOps**: MLflow, Docker, Virtual Environments
-- **Tools & Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Tensorflow, Pytorch, openCV
-- **System Knowledge**: Experience with NVIDIA GPUs, CUDA, cuDNN, Intel MKL-DNN, WSL for machine learning tasks
+
 
 ## ✨ Qualities
 - **Innovative Thinker**: Always exploring new solutions and methods to tackle existing and future challenges in AI.
