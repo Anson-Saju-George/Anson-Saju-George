@@ -44,7 +44,15 @@ I'm a **CSE (Artificial Intelligence and Machine Learning)** bachelor student wi
 - **Cross-Platform Development**: Proficient in setting up and maintaining environments on **Linux** (Fedora and Ubuntu) and **Windows** for GPU programming, CUDA support, and ML workflows.
 - **Community Engagement**: Active in AI and tech communities, sharing knowledge and learning from others to grow collectively.
 
-
+## 📜 Certifications
+- Microsoft Certified: Azure AI Fundamentals
+- Google Cloud Computing Foundations
+- Cisco: PCAP (Python), CLA (C), Cybersecurity Essentials
+- Infosys Springboard: Java Fundamentals, IoT Edge Analytics
+- Duke University: Introduction to Machine Learning
+- Great Learning Academy: Pandas and NumPy
+- Intel Unnati: Applied AI/ML Webinar
+- Tableau Hackathon: Data Science for Social Good
 
 ## ✨ Qualities
 - **Innovative Thinker**: Always exploring new solutions and methods to tackle existing and future challenges in AI.
