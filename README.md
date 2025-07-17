@@ -1,8 +1,5 @@
 # Hey there, I'm Anson! 👋
 
-I'm a **CSE (Artificial Intelligence and Machine Learning)** bachelor student with a deep enthusiasm for **AI** and **Machine Learning**. As an **AI aspirant** and **problem solver**, I am passionate about using technology to address real-world challenges and continuously push boundaries in AI innovation. 
-💻 I’m a final-year B.Tech student in **Computer Science and Engineering (Artificial Intelligence and Machine Learning)**, driven by a strong passion for **AI** and its real-world applications. With a deep enthusiasm for innovation and problem-solving, I strive to develop intelligent solutions that push the boundaries of what's possible in the AI landscape
-
 🚀 **Final-year B.Tech student in Computer Science and Engineering (Artificial Intelligence and Machine Learning)** with a deep passion for **AI innovation and problem-solving**. As an aspiring AI engineer, I’m driven to create intelligent solutions that tackle real-world challenges and push the boundaries of what’s possible in the **AI landscape**. 💡💻
 
 ## 🌐 Socials (📫 How to Reach Me)
