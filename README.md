@@ -3,7 +3,7 @@
 **Final-year B.Tech student in Computer Science and Engineering (Artificial Intelligence and Machine Learning)** with a deep passion for **AI innovation and problem-solving**. As an aspiring AI engineer, I’m driven to create intelligent solutions that tackle real-world challenges and push the boundaries of what’s possible in the **AI landscape**.
 
 ## My Portfolio
-[!Website](https://ansonsajugeorge.online)
+[ansonsajugeorge.online](https://ansonsajugeorge.online)
 
 ## 🌐 Socials (How to Reach Me)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.anzon._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anson-saju-george) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/he_is_so_handsome) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Beer_N_Roses) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansonsaju@karunya.edu.in) 
