@@ -2,7 +2,7 @@
 
 **AI/ML Engineer & SDE** — Agentic AI, Computer Vision, LLM & RAG. Currently an **AI Engineer at Veynox Technologies (InfoBay.AI)** working on advanced AI-agent benchmarking, and a **B.Tech CSE (AI & ML) graduate** who builds and ships end-to-end deep-learning systems — from dataset curation and model training to **GPU-accelerated inference** deployed on **self-hosted cloud infrastructure**. Hands-on across **computer vision**, **retrieval-augmented generation (RAG)**, and full-stack ML deployment. Two IEEE-indexed publications (lead author at **IC2NC 2025**; co-author at **ICSPC 2023**). I design software as a *system*, not a collection of features.
 
-📍 Kerala, India — open to relocate (Canada / US / remote)  ·  🌐 Portfolio → **[ansonsajugeorge.online](https://ansonsajugeorge.online)**
+📍 Abu Dhabi, UAE — open to relocate (US / Canada)  ·  🌐 Portfolio → **[ansonsajugeorge.online](https://ansonsajugeorge.online)**
 
 ## 🌐 Socials (How to Reach Me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ansonsajugeorge.online) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anson-saju-george) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Anson-Saju-George) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansonsaju007@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.anzon._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Beer_N_Roses)
@@ -69,7 +69,7 @@
 Research-grade, protocol-aware deepfake detection over a **192K-sample corpus** (179,988 images + 12,028 videos) with **identity-aware splitting** to prevent subject leakage, across **22 tracked experiment runs**. Benchmarked image backbones (ViT, ConvNeXt, Swin, DeiT, ConvNeXtV2, MaxViT, EVA) — best image model **ConvNeXt-Base: F1 0.9863, ROC-AUC 0.9968**. Compared temporal/spatiotemporal video heads (mean, LSTM, Transformer, TCN, ConvLSTM, hybrids) — best video model **91.0% accuracy / 0.784 F1**, with **ConvNeXt-TCN** strongest. FastAPI inference with VRAM-aware scheduling, model caching, and GPU memory offloading.
 > `PyTorch` · `timm` · `ConvNeXt` · `ViT` · `Swin` · `TCN` · `OpenCV` · `FastAPI`
 >
-> 🌐 [Live Demo](https://ansonsajugeorge.online/deepfake-detection/) · 💻 [Code](https://github.com/Anson-Saju-George/df-engine) · 🔬 [Research Repo](https://github.com/Anson-Saju-George/Deepfake-Engine-Research)
+> 🌐 [Live Demo](https://ansonsajugeorge.online/deepfake-detection/) · 🔬 [Research Repo](https://github.com/Anson-Saju-George/Deepfake-Engine-Research)
 
 ### 🔎 [ContextForge — Config-Aware RAG Retrieval Workbench](https://ansonsajugeorge.online/context-forge/)
 Local-first RAG workbench comparing retrieval architectures (v0 → v3.1) over a fixed corpus, with citation tracing, retrieval telemetry, and benchmark quality gates for evidence-grounded answers. Engineered a **hybrid retrieval stack from scratch** — BM25 sparse retrieval, query intent routing, document-balanced synthesis, deterministic specificity reranking, MMR-style diversity, and parent-child context expansion — no external framework. Reduced warmed-query latency to **~160–200 ms** for synthesis (sub-second extraction) on a **9,706-chunk** corpus. Google OAuth, Razorpay hourly access, and server-side SQLite usage tracking.
