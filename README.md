@@ -132,7 +132,7 @@ PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for
 
 [![Contribution activity graph](https://activity-graph.vercel.app/graph?username=Anson-Saju-George&bg_color=00000000&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&title_color=39d353&hide_border=true&custom_title=Last%2030%20days)](https://github.com/Anson-Saju-George)
 
-### Random Dev Quote
+### ✍️ Random Dev Quote
 <p align="center">
   <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
