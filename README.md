@@ -124,7 +124,7 @@ PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anson-Saju-George&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📅 Contribution Activity
-[![Anson's GitHub contribution calendar](https://ghchart.rshah.org/409ba5/Anson-Saju-George)](https://github.com/Anson-Saju-George)
+[![Anson's GitHub contribution calendar](https://ghchart.rshah.org/39d353/Anson-Saju-George)](https://github.com/Anson-Saju-George)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
