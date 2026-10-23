@@ -126,6 +126,11 @@ PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for
 ## 📅 Contribution Activity
 [![Anson's GitHub contribution calendar](https://ghchart.rshah.org/39d353/Anson-Saju-George)](https://github.com/Anson-Saju-George)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anson-Saju-George/Anson-Saju-George/output/github-snake-dark.svg">
+  <img alt="Anson's contribution snake" src="https://raw.githubusercontent.com/Anson-Saju-George/Anson-Saju-George/output/github-snake.svg">
+</picture>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
