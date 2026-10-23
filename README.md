@@ -119,9 +119,13 @@ PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Anson-Saju-George&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anson-Saju-George&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anson-Saju-George&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img height="170" alt="Anson Saju George's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anson-Saju-George&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="170" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anson-Saju-George&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+<p align="center">
+  <img alt="GitHub streak" src="https://nirzak-streak-stats.vercel.app/?user=Anson-Saju-George&theme=dark&hide_border=false" />
+</p>
 
 ## 📅 Contribution Activity
 <picture>
@@ -131,8 +135,10 @@ PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for
 
 [![Contribution activity graph](https://activity-graph.vercel.app/graph?username=Anson-Saju-George&bg_color=00000000&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&title_color=39d353&hide_border=true&custom_title=Last%2030%20days)](https://github.com/Anson-Saju-George)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<h3 align="center">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
 
 ---
 
