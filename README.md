@@ -2,7 +2,7 @@
 
 **AI/ML Engineer & SDE** — Agentic AI, Computer Vision, LLM & RAG. Currently an **AI Engineer at Veynox Technologies (InfoBay.AI)** working on advanced AI-agent benchmarking, and a **B.Tech CSE (AI & ML) graduate** who builds and ships end-to-end deep-learning systems — from dataset curation and model training to **GPU-accelerated inference** deployed on **self-hosted cloud infrastructure**. Hands-on across **computer vision**, **retrieval-augmented generation (RAG)**, and full-stack ML deployment. Two IEEE-indexed publications (lead author at **IC2NC 2025**; co-author at **ICSPC 2023**). I design software as a *system*, not a collection of features.
 
-📍 Abu Dhabi, UAE — open to relocate (US / Canada)  ·  🌐 Portfolio → **[ansonsajugeorge.online](https://ansonsajugeorge.online)**
+📍 India | UAE — open to relocate (US / Canada)  ·  🌐 Portfolio → **[ansonsajugeorge.online](https://ansonsajugeorge.online)**
 
 ## 🌐 Socials (How to Reach Me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ansonsajugeorge.online) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anson-saju-george) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/Anson-Saju-George) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansonsaju007@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.anzon._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Beer_N_Roses)
@@ -124,14 +124,12 @@ PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anson-Saju-George&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📅 Contribution Activity
-[![Anson's GitHub contribution calendar](https://ghchart.rshah.org/39d353/Anson-Saju-George)](https://github.com/Anson-Saju-George)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anson-Saju-George/Anson-Saju-George/output/github-snake-dark.svg">
   <img alt="Anson's contribution snake" src="https://raw.githubusercontent.com/Anson-Saju-George/Anson-Saju-George/output/github-snake.svg">
 </picture>
 
-[![Contribution activity graph](https://activity-graph.vercel.app/graph?username=Anson-Saju-George&bg_color=00000000&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&title_color=39d353&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Anson-Saju-George)
+[![Contribution activity graph](https://activity-graph.vercel.app/graph?username=Anson-Saju-George&bg_color=00000000&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&title_color=39d353&hide_border=true&custom_title=Last%2030%20days)](https://github.com/Anson-Saju-George)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
