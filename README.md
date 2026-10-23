@@ -123,9 +123,6 @@ PyTorch MLP (178 → 256 → 128 → 64 → 1 with BatchNorm, ReLU, dropout) for
   <img height="170" alt="Anson Saju George's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anson-Saju-George&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="170" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anson-Saju-George&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-<p align="center">
-  <img alt="GitHub streak" src="https://nirzak-streak-stats.vercel.app/?user=Anson-Saju-George&theme=dark&hide_border=false" />
-</p>
 
 ## 📅 Contribution Activity
 <picture>
