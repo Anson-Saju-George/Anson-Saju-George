@@ -1,6 +1,6 @@
 # Hey there, I'm Anson! 👋
 
-**AI/ML Engineer & SDE** — Agentic AI, Computer Vision, LLM & RAG. Currently an **AI Engineer at Veynox Technologies (InfoBay.AI)** working on advanced AI-agent benchmarking, and a **B.Tech CSE (AI & ML) graduate** who builds and ships end-to-end deep-learning systems — from dataset curation and model training to **GPU-accelerated inference** deployed on **self-hosted cloud infrastructure**. Hands-on across **computer vision**, **retrieval-augmented generation (RAG)**, and full-stack ML deployment. Two IEEE-indexed publications (lead author at **IC2NC 2025**; co-author at **ICSPC 2023**). I design software as a *system*, not a collection of features.
+**AI/ML Engineer & SDE Full-Stack** — Agentic AI, Computer Vision, LLM & RAG. Currently an **AI Engineer at Veynox Technologies (InfoBay.AI)** working on advanced AI-agent benchmarking, and a **B.Tech CSE (AI & ML) graduate** who builds and ships end-to-end deep-learning systems — from dataset curation and model training to **GPU-accelerated inference** deployed on **self-hosted cloud infrastructure**. Hands-on across **computer vision**, **retrieval-augmented generation (RAG)**, and full-stack ML deployment. Two IEEE-indexed publications (lead author at **IC2NC 2025**; co-author at **ICSPC 2023**). I design software as a *system*, not a collection of features.
 
 📍 India | UAE — open to relocate (US / Canada)  ·  🌐 Portfolio → **[ansonsajugeorge.online](https://ansonsajugeorge.online)**
 
